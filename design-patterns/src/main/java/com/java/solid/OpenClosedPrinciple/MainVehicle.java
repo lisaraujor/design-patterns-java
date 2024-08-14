@@ -1,10 +1,6 @@
-package com.java;
+package com.java.solid.OpenClosedPrinciple;
 
-import com.java.solid.OpenClosedPrinciple.Car;
-import com.java.solid.OpenClosedPrinciple.Motorcycle;
-import com.java.solid.OpenClosedPrinciple.TypeVehicle;
-
-public class Main {
+public class MainVehicle {
     private static TypeVehicle typeVehicle;
     public static void main(String[] args) {
         
