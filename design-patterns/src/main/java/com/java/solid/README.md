@@ -19,8 +19,9 @@ Any instance of a derived class should be substitutable for an instance of its b
 
 ### 4) Interface Segregation:
 This principle focuses on designing interfaces (or abstract classes) that are specific to their client's needs; no client should be forced to depend on methods it does not use. Instead of creating a large interface that covers all the possible methods, it's better to create smaller, more focused interfaces for specific use cases. This approach results in interfaces that are more cohesive and less coupled.
-    
-    4.1) sjdaskjdh
+
+### 5) Dependency Inversion:
+The principle of dependency inversion refers to the decoupling of software modules. This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.
 
 
 
