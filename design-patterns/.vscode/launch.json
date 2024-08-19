@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.java.designPatterns.FactoryMethod.Main",
+            "projectName": "design-patterns",
+            "args": "bike"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "com.java.solid.DependencyInversion.Main",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "MainVehicle",
+            "request": "launch",
+            "mainClass": "com.java.solid.InterfaceSegregation.MainVehicle",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "MainPayment",
+            "request": "launch",
+            "mainClass": "com.java.solid.LiskovSubstitution.MainPayment",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "MainVehicle(1)",
+            "request": "launch",
+            "mainClass": "com.java.solid.OpenClosedPrinciple.MainVehicle",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "MainSales",
+            "request": "launch",
+            "mainClass": "com.java.solid.SingleResponsibility.MainSales",
+            "projectName": "design-patterns"
+        }
+    ]
+}
