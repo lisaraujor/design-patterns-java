@@ -1,4 +1,4 @@
-package com.java.solid.InterfaceSegregation;
+package com.java.solid.interfacesegregation;
 
 public class MainVehicle {
 

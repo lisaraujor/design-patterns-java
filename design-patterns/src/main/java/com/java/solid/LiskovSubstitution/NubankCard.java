@@ -1,4 +1,4 @@
-package com.java.solid.LiskovSubstitution;
+package com.java.solid.liskovsubstitution;
 
 abstract public class NubankCard implements InterfacePaymentInstrument {
 

@@ -1,6 +1,6 @@
-package com.java.designPatterns.FactoryMethod;
+package com.java.designpatterns.factorymethod;
 
-import com.java.designPatterns.FactoryMethod.vehicles.InterfaceVehicle;
+import com.java.designpatterns.factorymethod.vehicles.InterfaceVehicle;
 
 public abstract class Transport {
     

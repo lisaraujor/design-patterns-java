@@ -1,4 +1,4 @@
-package com.java.solid.LiskovSubstitution;
+package com.java.solid.liskovsubstitution;
 
 public class MainPayment {
     public static void main(String[] args) throws Exception{

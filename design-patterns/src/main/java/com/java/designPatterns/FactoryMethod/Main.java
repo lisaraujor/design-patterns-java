@@ -1,4 +1,4 @@
-package com.java.designPatterns.FactoryMethod;
+package com.java.designpatterns.factorymethod;
 
 public class Main {
 

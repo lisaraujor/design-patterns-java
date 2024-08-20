@@ -1,7 +1,7 @@
-package com.java.designPatterns.FactoryMethod;
+package com.java.designpatterns.factorymethod;
 
-import com.java.designPatterns.FactoryMethod.vehicles.InterfaceVehicle;
-import com.java.designPatterns.FactoryMethod.vehicles.Motorcycle;
+import com.java.designpatterns.factorymethod.vehicles.InterfaceVehicle;
+import com.java.designpatterns.factorymethod.vehicles.Motorcycle;
 
 public class MotorcycleTransport extends Transport {
 

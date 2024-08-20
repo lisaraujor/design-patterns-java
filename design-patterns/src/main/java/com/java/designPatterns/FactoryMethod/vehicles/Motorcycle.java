@@ -1,4 +1,4 @@
-package com.java.designPatterns.FactoryMethod.vehicles;
+package com.java.designpatterns.factorymethod.vehicles;
 
 public class Motorcycle implements InterfaceVehicle {
 

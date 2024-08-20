@@ -1,4 +1,4 @@
-package com.java.solid.DependencyInversion;
+package com.java.solid.dependencyinversion;
 
 public enum DbEnum {
     MYSQL,

@@ -1,4 +1,4 @@
-package com.java.solid.OpenClosedPrinciple;
+package com.java.solid.openclosedprinciple;
 
 public enum TypeVehicle {
     CAR,

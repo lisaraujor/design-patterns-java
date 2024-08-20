@@ -1,4 +1,4 @@
-package com.java.solid.SingleResponsibility;
+package com.java.solid.singleresponsibility;
 
 public class Sale {
     private String productName;

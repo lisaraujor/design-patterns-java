@@ -1,4 +1,4 @@
-package com.java.solid.SingleResponsibility;
+package com.java.solid.singleresponsibility;
 
 import java.util.List;
 

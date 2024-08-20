@@ -1,4 +1,4 @@
-package com.java.solid.LiskovSubstitution;
+package com.java.solid.liskovsubstitution;
 
 public class CreditCard extends NubankCard {
 
