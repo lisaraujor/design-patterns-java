@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "com.java.designpatterns.adapter.Main",
+            "projectName": "design-patterns"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "com.java.designpatterns.builder.Main",
             "projectName": "design-patterns"
         },
